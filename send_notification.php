@@ -3,7 +3,7 @@
     $token = $_GET['token'];
     $body = $_GET['body'];
 
-    $FIREBASE_SERVER = 'AAAAhUqtAnk:APA91bE3PI-SjaQU_rjaST_02Ov4vPLPevJAVzDzKu8oG_s59VlxZftfEn2cZkmtrWhfykqTevOLvf-hG2roqxA3gSq37NeFZ80GnBo92j6lfyTNb2t_h-nmR9EPyZ1Wm4R8qruBFfPy';
+    $FIREBASE_SERVER = 'YOUR_FIREBASE_SERVER';
 
     if(!$token || !$body){
         $response['error'] = true;
