@@ -1,3 +1,4 @@
 # MyRoom-API
 Api used by MyRoom APP : https://github.com/erthru/My-Room-App <br>
-Change firebase cloud messaging server key in send_notification.php
+Change firebase cloud messaging server key in send_notification.php <br>
+Change img path in new_user.php
